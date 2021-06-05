@@ -1,0 +1,2 @@
+rootProject.name = "Backstage Render"
+include ':app'
